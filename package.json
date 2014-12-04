@@ -1,0 +1,23 @@
+{
+  "name": "get-repo",
+  "version": "0.0.0",
+  "description": "Get the files in a repository on GitHub",
+  "keywords": [],
+  "dependencies": {
+    "barrage": "^1.1.0",
+    "concat-stream": "^1.4.7",
+    "http-basic": "^1.1.0",
+    "promise": "^6.0.1",
+    "tar": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/get-repo.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
