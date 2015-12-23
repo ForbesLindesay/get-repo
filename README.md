@@ -3,7 +3,7 @@
 Get the files in a repository on GitHub
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/get-repo/master.svg)](https://travis-ci.org/ForbesLindesay/get-repo)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/get-repo.svg)](https://gemnasium.com/ForbesLindesay/get-repo)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/get-repo.svg)](https://david-dm.org/ForbesLindesay/get-repo)
 [![NPM version](https://img.shields.io/npm/v/get-repo.svg)](https://www.npmjs.org/package/get-repo)
 
 ## Installation
