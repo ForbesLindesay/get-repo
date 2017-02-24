@@ -1,5 +1,7 @@
 # get-repo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/get-repo.svg)](https://greenkeeper.io/)
+
 Get the files in a repository on GitHub
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/get-repo/master.svg)](https://travis-ci.org/ForbesLindesay/get-repo)
